@@ -16,6 +16,9 @@ bWAPP is licensed under a Creative Commons Attribution-NonCommercial-NoDerivativ
 
 */
 
+// ping -c 1 {POC}
+// no response
+
 include("security.php");
 include("security_level_check.php");
 include("functions_external.php");
